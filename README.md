@@ -14,7 +14,6 @@ This project aims to forecast monthly airline miles traveled using various time 
   - [Final Model](#final-model)
 - [Results](#results)
 - [Conclusions](#conclusions)
-- [How to Run the Code](#how-to-run-the-code)
 
 ## Dataset
 The dataset consists of monthly airline miles traveled from January 1996 to May 2005. This data is sourced from a Udemy course, providing a practical application of time series forecasting techniques.
