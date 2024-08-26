@@ -59,11 +59,3 @@ The final model predicted the airline miles for the next 12 months with high acc
 
 ## Conclusions
 The Multiplicative Trend and Multiplicative Seasonality model (Holt-Winters) was the most effective in capturing the complex patterns in the airline miles data. This project demonstrated the importance of model selection and evaluation in time series forecasting, highlighting the value of using the correct combination of trend and seasonal components.
-
-## How to Run the Code
-To run this project, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
